@@ -1,0 +1,154 @@
+[
+    {
+      "service": "IT1",
+      "name": "IT naprave",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1001",
+      "key": "O1",
+      "status": "1"
+    },
+    {
+      "service": "IT2",
+      "name": "IT varnost",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1017",
+      "key": "O17",
+      "status": "1"
+    },
+    {
+      "service": "IT2",
+      "name": "Servisna naročila",
+      "icon": "{\"icon\":\"user-gear\",\"code\":\"f4fe\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1018",
+      "key": "O18",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Aplikacije",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1006",
+      "key": "O2",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Email",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1003",
+      "key": "O3",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "VPN Delo na daljavo",
+      "icon": "{\"icon\":\"house-laptop\",\"code\":\"e066\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1005",
+      "key": "O4",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Mrežni diski/Pogoni",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1004",
+      "key": "O5",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Fiksna Telefonija",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1007",
+      "key": "O6",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Mobilna telefonija",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1008",
+      "key": "O7",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Uporabniški računi in gesla",
+      "icon": "{\"icon\":\"user\",\"code\":\"f007\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1002",
+      "key": "O8",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Dostop do interneta",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1010",
+      "key": "O9",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Intranet portal",
+      "icon": "{\"icon\":\"building\",\"code\":\"f1ad\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1011",
+      "key": "O10",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Dostop do portalov in storitev AEC",
+      "icon": "{\"icon\":\"people-roof\",\"code\":\"e537\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1013",
+      "key": "O11",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "USB/CD/DVD",
+      "icon": "{\"icon\":\"compact-disc\",\"code\":\"f51f\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1012",
+      "key": "O12",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Dostop do zunanjih portalov/aplikacij",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1009",
+      "key": "O13",
+      "status": "1"
+    },
+    {
+      "service": "IT2",
+      "name": "Strežniška infrastruktura",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1014",
+      "key": "O14",
+      "status": "1"
+    },
+    {
+      "service": "IT2",
+      "name": "Omrežje",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1015",
+      "key": "O15",
+      "status": "1"
+    },
+    {
+      "service": "IT2",
+      "name": "Diskovna in FC infrastruktura",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1016",
+      "key": "O16",
+      "status": "1"
+    },
+    {
+      "service": "IT1",
+      "name": "Splošne težave",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1017",
+      "key": "017",
+      "status": "1"
+    }
+  ]

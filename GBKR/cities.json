@@ -1,0 +1,21 @@
+[
+    {
+      "CityID": 100,
+      "CountryID": 10,
+      "CityName": "London",
+      "CityLocation": "England"
+    },
+    {
+      "CityID": 101,
+      "CountryID": 11,
+      "CityName": "New York",
+      "CityLocation": "USA"
+    },
+    {
+      "CityID": 102,
+      "CountryID": 10,
+      "CityName": "Manchester",
+      "CityLocation": "England"
+    }
+  ]
+  

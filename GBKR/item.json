@@ -1,0 +1,758 @@
+[
+    {
+      "name": "Računalnik (Desktop/Laptop)",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1001",
+      "key": "ITO1"
+    },
+    {
+      "name": "Passbook Olivetti stampac",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1010",
+      "key": "ITO10"
+    },
+    {
+      "name": "Odkrivanje zlonamerne programske opreme v bančnih sistemih",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1095",
+      "key": "ITO95"
+    },
+    {
+      "name": "Odkrivanje napadov na kibernetsko varnost",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1096",
+      "key": "ITO96"
+    },
+    {
+      "name": "Reševanje ugotovitev PEN testa",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1097",
+      "key": "ITO97"
+    },
+    {
+      "name": "Odpravljanje ranljivosti sistema",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1098",
+      "key": "ITO98"
+    },
+    {
+      "name": "Izpolnjevanje vprašalnika o varnosti sistema",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1099",
+      "key": "ITO99"
+    },
+    {
+      "name": "Preverjanje objave e-poštne domene",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1100",
+      "key": "ITO100"
+    },
+    {
+      "name": "Odpiranje servisnega naloga",
+      "oblast": "O18",
+      "icon": "{\"icon\":\"user-gear\",\"code\":\"f4fe\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1101",
+      "key": "ITO101"
+    },
+    {
+      "name": "Zapiranje servisnega naloga",
+      "oblast": "O18",
+      "icon": "{\"icon\":\"user-gear\",\"code\":\"f4fe\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1102",
+      "key": "ITO102"
+    },
+    {
+      "name": "Instalacije standardne poslovne aplikacije",
+      "oblast": "O2",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1011",
+      "key": "ITO11"
+    },
+    {
+      "name": "Instalacije nestandardne aplikacije",
+      "oblast": "O2",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1012",
+      "key": "ITO12"
+    },
+    {
+      "name": "Nadgradnja aplikacije na novo verzijo",
+      "oblast": "O2",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1013",
+      "key": "ITO13"
+    },
+    {
+      "name": "Nabava licenc za aplikacije",
+      "oblast": "O2",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1014",
+      "key": "ITO14"
+    },
+    {
+      "name": "Težave z aplikacijo",
+      "oblast": "O2",
+      "icon": "{\"icon\":\"windows\",\"code\":\"f17a\",\"type\":\"brands\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1015",
+      "key": "ITO15"
+    },
+    {
+      "name": "Otvaranje nove grupne Email adrese",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1016",
+      "key": "ITO16"
+    },
+    {
+      "name": "Sprememba nastavitev e-poštnega naslova",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1017",
+      "key": "ITO17"
+    },
+    {
+      "name": "Težava pri delu z e-pošto",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1018",
+      "key": "ITO18"
+    },
+    {
+      "name": "Vraćanje obrisanog Email-a",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1019",
+      "key": "ITO19"
+    },
+    {
+      "name": "Monitor",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1002",
+      "key": "ITO2"
+    },
+    {
+      "name": "Propuštanje Email-a iz karantina",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1020",
+      "key": "ITO20"
+    },
+    {
+      "name": "Preverjanje in potrditev poslane elektronske pošte",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1021",
+      "key": "ITO21"
+    },
+    {
+      "name": "Dodajanje pošiljatelja (domene) na beli seznam",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1022",
+      "key": "ITO22"
+    },
+    {
+      "name": "Blokiranje e-poštnih pošiljateljev / domen",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1023",
+      "key": "ITO23"
+    },
+    {
+      "name": "Dodajanje nadomestnega (vzdevka) e-poštnega naslova",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1024",
+      "key": "ITO24"
+    },
+    {
+      "name": "Novi nalog za VPN",
+      "oblast": "O4",
+      "icon": "{\"icon\":\"house-laptop\",\"code\":\"e066\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1025",
+      "key": "ITO25"
+    },
+    {
+      "name": "Priprava računalnika za delo od doma",
+      "oblast": "O4",
+      "icon": "{\"icon\":\"house-laptop\",\"code\":\"e066\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1026",
+      "key": "ITO26"
+    },
+    {
+      "name": "Težava pri delu na daljavo",
+      "oblast": "O4",
+      "icon": "{\"icon\":\"house-laptop\",\"code\":\"e066\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1027",
+      "key": "ITO27"
+    },
+    {
+      "name": "Otvaranje novog deljenog foldera",
+      "oblast": "O555555",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1028",
+      "key": "ITO28"
+    },
+    {
+      "name": "Povečanje prostega prostora v mapi v skupni rabi",
+      "oblast": "O5",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1029",
+      "key": "ITO29"
+    },
+    {
+      "name": "Tiskalnik",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1003",
+      "key": "ITO3"
+    },
+    {
+      "name": "Težava pri delu z mapami v skupni rabi",
+      "oblast": "O5",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1030",
+      "key": "ITO30"
+    },
+    {
+      "name": "Spremenite ime mape v skupni rabi",
+      "oblast": "O5",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1031",
+      "key": "ITO31"
+    },
+    {
+      "name": "Promena pristupa deljenog foldera",
+      "oblast": "O55555",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1032",
+      "key": "ITO32"
+    },
+    {
+      "name": "Obnovitev izbrisane datoteke/mape iz mape v skupni rabi",
+      "oblast": "O5",
+      "icon": "{\"icon\":\"folder-open\",\"code\":\"f07c\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1033",
+      "key": "ITO33"
+    },
+    {
+      "name": "Ustvarjanje/spreminjanje internih številk",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1034",
+      "key": "ITO34"
+    },
+    {
+      "name": "Težava z odjemalcem MiTel",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1035",
+      "key": "ITO35"
+    },
+    {
+      "name": "Težava s telefonsko storitvijo MiTel",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1036",
+      "key": "ITO36"
+    },
+    {
+      "name": "Kreiranje izmena/naloga na NICE sistemu",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1037",
+      "key": "ITO37"
+    },
+    {
+      "name": "Pridobivanje poročil/posnetkov iz sistema MiTel",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1038",
+      "key": "ITO38"
+    },
+    {
+      "name": "Sprememba konfiguracije IP telefonije MiTel",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1039",
+      "key": "ITO39"
+    },
+    {
+      "name": "Fiksni telefon",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1004",
+      "key": "ITO4"
+    },
+    {
+      "name": "Avaya izmena konfiguracije IP telefonije",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1040",
+      "key": "ITO40"
+    },
+    {
+      "name": "Izmene na Avaya IVR sistemu",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1041",
+      "key": "ITO41"
+    },
+    {
+      "name": "Problem sa Altitude klijentom",
+      "oblast": "O6",
+      "icon": "{\"icon\":\"phone\",\"code\":\"f095\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1042",
+      "key": "ITO42"
+    },
+    {
+      "name": "Dodajanje novega mobilnega telefona v sistem MDM",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1043",
+      "key": "ITO43"
+    },
+    {
+      "name": "Dodajanje nove aplikacije v sistem MDM",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1044",
+      "key": "ITO44"
+    },
+    {
+      "name": "Nastavitev novega mobilnega telefona za delo v sistemu MDM",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1045",
+      "key": "ITO45"
+    },
+    {
+      "name": "Nastavitev aplikacije na mobilnem telefonu",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1046",
+      "key": "ITO46"
+    },
+    {
+      "name": "Težava pri delu z mobilnim telefonom",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1047",
+      "key": "ITO47"
+    },
+    {
+      "name": "Ponovna namestitev aplikacije na mobilni telefon",
+      "oblast": "O7",
+      "icon": "{\"icon\":\"mobile-screen\",\"code\":\"f3cf\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1048",
+      "key": "ITO48"
+    },
+    {
+      "name": "Otvaranje novog naloga za Windows",
+      "oblast": "O8",
+      "icon": "{\"icon\":\"user\",\"code\":\"f007\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1049",
+      "key": "ITO49"
+    },
+    {
+      "name": "Čitalec kartic",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1005",
+      "key": "ITO5"
+    },
+    {
+      "name": "Gasenje naloga za Windows",
+      "oblast": "O8",
+      "icon": "{\"icon\":\"user\",\"code\":\"f007\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1050",
+      "key": "ITO50"
+    },
+    {
+      "name": "Spremenite geslo računa Windows",
+      "oblast": "O8",
+      "icon": "{\"icon\":\"user\",\"code\":\"f007\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1051",
+      "key": "ITO51"
+    },
+    {
+      "name": "Težava pri delu z uporabniškimi računi",
+      "oblast": "O8",
+      "icon": "{\"icon\":\"user\",\"code\":\"f007\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1052",
+      "key": "ITO52"
+    },
+    {
+      "name": "Omogočanje dostopa do spletne strani",
+      "oblast": "O9",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1053",
+      "key": "ITO53"
+    },
+    {
+      "name": "Prenos gradiva z interneta",
+      "oblast": "O9",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1054",
+      "key": "ITO54"
+    },
+    {
+      "name": "Težava pri dostopu do spletne strani",
+      "oblast": "O9",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1055",
+      "key": "ITO55"
+    },
+    {
+      "name": "Internetna težava",
+      "oblast": "O9",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1056",
+      "key": "ITO56"
+    },
+    {
+      "name": "Dostop do intranetnega portala",
+      "oblast": "O10",
+      "icon": "{\"icon\":\"building\",\"code\":\"f1ad\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1057",
+      "key": "ITO57"
+    },
+    {
+      "name": "Dostop do AEC portalov in servisov",
+      "oblast": "O11",
+      "icon": "{\"icon\":\"people-roof\",\"code\":\"e537\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1058",
+      "key": "ITO58"
+    },
+    {
+      "name": "Optični bralnik",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1006",
+      "key": "ITO6"
+    },
+    {
+      "name": "Prenos vsebine na pogon USB in iz njega",
+      "oblast": "O12",
+      "icon": "{\"icon\":\"compact-disc\",\"code\":\"f51f\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1059",
+      "key": "ITO59"
+    },
+    {
+      "name": "Narezivanje sadrzaja na CDDVD",
+      "oblast": "O12",
+      "icon": "{\"icon\":\"compact-disc\",\"code\":\"f51f\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1060",
+      "key": "ITO60"
+    },
+    {
+      "name": "Arhiv NLB",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1061",
+      "key": "ITO61"
+    },
+    {
+      "name": "Bloomberg",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1062",
+      "key": "ITO62"
+    },
+    {
+      "name": "SWIFT",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1063",
+      "key": "ITO63"
+    },
+    {
+      "name": "AJPES",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1064",
+      "key": "ITO64"
+    },
+    {
+      "name": "Projektor",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1007",
+      "key": "ITO7"
+    },
+    {
+      "name": "eDavki",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1065",
+      "key": "ITO65"
+    },
+    {
+      "name": "EURONET eID",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1066",
+      "key": "ITO66"
+    },
+    {
+      "name": "Namestitev programske opreme/pravil na strežnik",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1067",
+      "key": "ITO67"
+    },
+    {
+      "name": "Ustvarjanje novega strežnika",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1068",
+      "key": "ITO68"
+    },
+    {
+      "name": "Težava z dostopom do strežnika",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1069",
+      "key": "ITO69"
+    },
+    {
+      "name": "Omogočanje uporabniškega dostopa do strežnika",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1070",
+      "key": "ITO70"
+    },
+    {
+      "name": "Omogočanje uporabniškega dostopa do strežnika prek konzole VMware",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1071",
+      "key": "ITO71"
+    },
+    {
+      "name": "Težave pri delu s strežnikom",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1072",
+      "key": "ITO72"
+    },
+    {
+      "name": "Spreminjanje virov strežnika (CPU, RAM, trdi disk)",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1073",
+      "key": "ITO73"
+    },
+    {
+      "name": "Dodajanje strežnika v rezervni sistem",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1074",
+      "key": "ITO74"
+    },
+    {
+      "name": "Tečajna tabla",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1008",
+      "key": "ITO8"
+    },
+    {
+      "name": "Enkratna varnostna kopija/posnetek strežnika",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1075",
+      "key": "ITO75"
+    },
+    {
+      "name": "Izdelava/Modifikacija sistema obveščanja za spremljanje",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1076",
+      "key": "ITO76"
+    },
+    {
+      "name": "Težava v komunikaciji med strežniki",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1077",
+      "key": "ITO77"
+    },
+    {
+      "name": "Težava v komunikaciji s poslovalnico",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1078",
+      "key": "ITO78"
+    },
+    {
+      "name": "Težava z razpoložljivostjo notranjih omrežnih storitev",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1079",
+      "key": "ITO79"
+    },
+    {
+      "name": "Težava z razpoložljivostjo zunanjih omrežnih storitev",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1080",
+      "key": "ITO80"
+    },
+    {
+      "name": "Težava z dostopom do partnerskih podpornih storitev banke",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1081",
+      "key": "ITO81"
+    },
+    {
+      "name": "Propustanje mrezne komunikacije izmedju hostova",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1082",
+      "key": "ITO82"
+    },
+    {
+      "name": "Spreminjanje nastavitev tunela Site-2-Site VPN s partnerskim podjetjem",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1083",
+      "key": "ITO83"
+    },
+    {
+      "name": "Izdelava tunela Site-2-Site VPN s partnerskim podjetjem",
+      "oblast": "O15",
+      "icon": "{\"icon\":\"network-wired\",\"code\":\"f6ff\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1084",
+      "key": "ITO84"
+    },
+    {
+      "name": "Brojačica",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1009",
+      "key": "ITO9"
+    },
+    {
+      "name": "Izmena prostora na postojecem LUN-u",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1085",
+      "key": "ITO85"
+    },
+    {
+      "name": "Kreiranje i povezivanje novog prostora-LUNa",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1086",
+      "key": "ITO86"
+    },
+    {
+      "name": "Zoniranje/mapiranje HOST-LUN",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1087",
+      "key": "ITO87"
+    },
+    {
+      "name": "Sprememba FC stikala (coniranje, dodajanje strežnikov)",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1088",
+      "key": "ITO88"
+    },
+    {
+      "name": "Povezovanje strežnika v FC omrežje",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1089",
+      "key": "ITO89"
+    },
+    {
+      "name": "Težava v delovanju diskovnega sistema",
+      "oblast": "O16",
+      "icon": "{\"icon\":\"database\",\"code\":\"f1c0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1090",
+      "key": "ITO90"
+    },
+    {
+      "name": "Namestitev agentov DLP in CYNET",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1091",
+      "key": "ITO91"
+    },
+    {
+      "name": "Nadgradnja varnostnih rešitev",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1092",
+      "key": "ITO92"
+    },
+    {
+      "name": "Spremembe in konfiguracija politik varnostnih rešitev",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1093",
+      "key": "ITO93"
+    },
+    {
+      "name": "Varnostna analiza incidenta",
+      "oblast": "O17",
+      "icon": "{\"icon\":\"user-shield\",\"code\":\"f505\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1094",
+      "key": "ITO94"
+    },
+    {
+      "name": "Izrada automatizovane razmene fajlova",
+      "oblast": "O14",
+      "icon": "{\"icon\":\"server\",\"code\":\"f233\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1103",
+      "key": "ITO103"
+    },
+    {
+      "name": "BANKOMATI - ATM - POS",
+      "oblast": "O1",
+      "icon": "{\"icon\":\"computer\",\"code\":\"e4e5\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1104",
+      "key": "ITO104"
+    },
+    {
+      "name": "Otvaranje nove Email adrese",
+      "oblast": "O3",
+      "icon": "{\"icon\":\"envelope\",\"code\":\"f0e0\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1105",
+      "key": "ITO105"
+    },
+    {
+      "name": "EPPS",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1106",
+      "key": "ITO106"
+    },
+    {
+      "name": "EURONET",
+      "oblast": "O13",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1107",
+      "key": "ITO107"
+    },
+    {
+      "name": "Splošne težave",
+      "oblast": "017",
+      "icon": "{\"icon\":\"globe\",\"code\":\"f0ac\",\"type\":\"duotone\",\"iconColor\":\"#009933\"}",
+      "ordinal_no": "1108",
+      "key": "ITO108"
+    }
+  ]
